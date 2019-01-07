@@ -19,4 +19,3 @@ public class App_424 {
         System.out.println(sum/count);
     }
 }
-}
